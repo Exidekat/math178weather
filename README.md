@@ -25,4 +25,5 @@ This repository contains code and analysis for Project 2 (MATH 178) by Haydon Be
 2. Install the required dependencies to your environment.
 
 `pip install -r requirements.txt`
-2. Open weather_model.ipynb in a Jupyter Notebook server to view and execute code. 
+
+3. Open weather_model.ipynb in a Jupyter Notebook server to view and execute code. 
